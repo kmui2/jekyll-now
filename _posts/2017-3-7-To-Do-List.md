@@ -1,7 +1,9 @@
 ---
 layout: post
-title: To Do List Week 35-2017
+title: To Do List
 ---
+
+2017-3-7
 
 * 354
   * Midterm (Thurs)
