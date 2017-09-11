@@ -1,6 +1,6 @@
 # Making New Posts
 
-Install NodeJS (nodejs.org). Then, install Gulp globally (sudo may be required).
+Install NodeJS (https://nodejs.org). Then, install Gulp globally (sudo may be required).
 
 ```npm install -g gulp```
 
