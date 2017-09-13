@@ -8,3 +8,4 @@ Hinatsu, John, Minh, Anna, Jay, Ash, and I went to Mini Hotpot on Park St. today
 ![](/img/minihotpot1.jpg)
 ![](/img/minihotpot2.jpg)
 ![](/img/minihotpot3.jpg)
+![](/img/soribaby.png)
