@@ -1,0 +1,23 @@
+{
+  "name": "kamui-now",
+  "version": "1.0.0",
+  "description": "> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "gitu 'Updating Blog'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmui2/kamui-now.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmui2/kamui-now/issues"
+  },
+  "homepage": "https://github.com/kmui2/kamui-now#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
