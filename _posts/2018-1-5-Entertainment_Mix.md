@@ -10,6 +10,10 @@ title: Entertainment Mix
 
 ## Spring 2017
 
+- [IU(아이유) _Palette(팔레트)](https://www.youtube.com/watch?v=b4tIl9b6Rno)
+	- Studying for Finals
+	- Moved in to JSM
+
 - [Bolbbalgan4](https://www.youtube.com/watch?v=Rv_DBocf_LU)
 	- Studying for Finals
 - [My Secret Romance](https://www.facebook.com/DramaFever/videos/10154486850586961/?autoplay_reason=all_page_organic_allowed&video_container_type=0&video_creator_product_type=0&app_id=138104159699759&live_video_guests=0)
