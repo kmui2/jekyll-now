@@ -10,6 +10,9 @@ title: Entertainment Mix
 
 ## Spring 2017
 
+- [Weightlifting Fairy Kim Bok Joo](https://www.viki.com/videos/1113819v-weightlifting-fairy-kim-bok-joo-episode-12)
+	- Do with homework and studying
+
 - [IU(아이유) _Palette(팔레트)](https://www.youtube.com/watch?v=b4tIl9b6Rno)
 	- Studying for Finals
 	- Moved in to JSM
