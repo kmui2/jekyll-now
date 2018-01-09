@@ -3,7 +3,7 @@ layout: post
 title: I'm not a Robot Scene
 ---
 
-**Ep 8 7:35**
+[**Ep 8 7:35**](https://www.viki.com/videos/1122932v-i-am-not-a-robot-episode-8)
 
 ![Robot Image](https://user-images.githubusercontent.com/17896701/34710495-3e8cd522-f4e1-11e7-9d07-7126af12ceb8.png)
 
