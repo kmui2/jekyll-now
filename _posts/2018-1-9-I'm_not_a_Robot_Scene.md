@@ -13,7 +13,9 @@ Ji A: Yes you are a genius so I'm sure you can make it.
 
 **Baek Gyoon**: That's probably true but why are you trying to make something liek this anyway?
 
-**Ji A**: I think it would be great to have something like this. When a couple are walking with an umbrella and they want to feel as if they're walking in the rain, then they can press the button to make the umbrella transparent. 
+**Ji A**: I think it would be great to have something like this. 
+
+When a couple are walking with an umbrella and they want to feel as if they're walking in the rain, then they can press the button to make the umbrella transparent. 
 
 And then when they want to kiss each other all of a sudden, they can make it opaque again to kiss secretly without others knowing.
 
