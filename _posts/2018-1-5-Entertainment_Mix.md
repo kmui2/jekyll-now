@@ -43,3 +43,6 @@ title: Entertainment Mix
 	- Leaving for Ilkyu's room to see him and Daniel
 - [SUPER JUNIOR-M 슈퍼주니어-M 'Break Down'](https://youtu.be/e_Nz8t3vNo8)
 	- Major don't like in gatehouse
+- [SUPER JUNIOR 슈퍼주니어 'Mr. Simple'](https://www.youtube.com/watch?v=r6TwzSGYycM)
+	- Playing League in Faville 200
+	- Studying late in Leopold for Data Structures
