@@ -35,5 +35,6 @@ title: Entertainment Mix
 	- Hanging out late at night in Adams Gatehouse
 	- Studying for EA 104
 	- Working for Housing
+- [Henry 헨리 '1-4-3 (I Love You) (feat. f(Amber))'](https://www.youtube.com/watch?v=GVse8hfaO4s)
 	- Walking from Van Hise to Adams by the Obervatory hill
-
+	- Coming back to my room from seminars, housing meetings, and classes
