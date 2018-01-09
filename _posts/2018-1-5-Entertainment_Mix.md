@@ -28,5 +28,12 @@ title: Entertainment Mix
 - [Apink - Remember, 에이핑크 - 리멤버](https://www.youtube.com/watch?v=NK-_tEtGJBU)
 	- 354 In CS Building Corner
 
+## Spring 2016
 
+- [Henry 헨리 'Fantastic'](https://www.youtube.com/watch?v=Xu2yAQEgYLo)
+	- Late freshman year 
+	- Hanging out late at night in Adams Gatehouse
+	- Studying for EA 104
+	- Working for Housing
+	- Walking from Van Hise to Adams by the Obervatory hill
 
