@@ -46,3 +46,5 @@ title: Entertainment Mix
 - [SUPER JUNIOR 슈퍼주니어 'Mr. Simple'](https://www.youtube.com/watch?v=r6TwzSGYycM)
 	- Playing League in Faville 200
 	- Studying late in Leopold for Data Structures
+- [The Very Best Of: Fire Emblem Fates (OST)](https://www.youtube.com/watch?v=6cEQYLFwQCo)
+	- Pulled all night doing Math 240 HW in Adams Den
