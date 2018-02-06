@@ -22,7 +22,7 @@ title: Activating Theatre
 
 ## Activation Theatre
 
-- We made a scenario where the teacher has a favorite student
+- We made a scenario where the teacher has a favorite student Sun Woo
 - Ezad attempted to speak with Sun but didn't work
 - Adrina attempted to make the same excuse as her classmate but was rejected
 - Hansika spoke with the teacher with dedication with evidence and hwo much she care about doing well in school
