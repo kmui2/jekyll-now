@@ -12,6 +12,8 @@ title: V Mongologues
 - How do parents priviledge their children?
 - How can parents offer the authority?
 - Is it okay for teachers to erase boundaries by letting their students use their first name?
+- Men do not need to be afraid with their bodies after becoming drunk?
+- Do women have the authority or power to speak out when there are so many men with lawyer who can oppress them?
 
 ## Ma Vie En Rose
 
