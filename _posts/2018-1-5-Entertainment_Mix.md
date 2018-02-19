@@ -28,6 +28,9 @@ title: Entertainment Mix
 - [Apink - Remember, 에이핑크 - 리멤버](https://www.youtube.com/watch?v=NK-_tEtGJBU)
 	- 354 In CS Building Corner
 
+- [B.A.P _ That’s My Jam](https://www.youtube.com/watch?v=dusY_K0TDsQ)
+	- Waiting for sloth to arrive on bus
+
 ## Spring 2016
 
 - [Henry 헨리 'Fantastic'](https://www.youtube.com/watch?v=Xu2yAQEgYLo)
