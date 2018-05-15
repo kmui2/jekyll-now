@@ -36,3 +36,43 @@ This is something I struggle on recently. I put way to much unnecessary work on 
 ### What is your goal for your future?
 
 I want to move to a larger city with more places to go and everying is within walking distance. I like cities with great transportation and maybe America is not the place. I am more interested in start-ups and innovative companies because I like developing and being with people who are motivated and care about their products.
+
+<details><summary></summary>
+<p>
+
+### ASumili
+
+Desparate af. Expert on greedy algorithms. She will back off, but I think it's still best to not work with.
+
+### Nging Ngong
+
+Not so relevant in classes this semester like that last. Should have taken 301. WTF?!
+
+### The KK
+
+Crazy person this semester. Destroyed me in 340 and the 353 final project.
+
+### NGuyen
+
+Phuc Dat Bich. He just plays Dota2 and plays with us in 577. He also rich af in spending for food outside.
+
+### ZZ Chegg Guy
+
+Great person to help. I really like his attitude, especially when he's playing LOL.
+
+### Jiken
+
+Stupid Debra is the admin of the group chat.
+
+### Nuts
+
+Can't beat Anaconda in Smash.
+
+### Anaconda
+
+Same as Nging Ngong.
+
+
+
+</p>
+</details>
